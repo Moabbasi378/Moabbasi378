@@ -3,7 +3,7 @@
 # Mohammad Abbasi
 ### Full Stack Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=18&pause=1000&color=6B7280&center=true&vCenter=true&width=480&lines=Building+scalable+web+and+mobile+apps;Next.js+%2B+React+%2B+React+Native+%2B+TypeScript;Clean+code.+Thoughtful+UX.+Solid+architecture." />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&pause=1000&color=6B7280&center=true&vCenter=true&width=480&lines=Building+scalable+web+and+mobile+apps;Next.js+%2B+React+%2B+React+Native+%2B+TypeScript;Clean+code.+Thoughtful+UX.+Solid+architecture." />
 
 <br/>
 
@@ -49,7 +49,7 @@ const mohammad = {
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Moabbasi378&show_icons=true&hide_border=true&theme=github_dark&title_color=fff&icon_color=fff&text_color=9CA3AF&bg_color=0d1117" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Moabbasi378&hide_border=true&theme=github-dark-blue&background=0D1117&currStreakLabel=fff" alt="GitHub Streak" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=Moabbasi378&hide_border=true&theme=github-dark-blue&background=0D1117&currStreakLabel=fff" alt="GitHub Streak" />
   <br/>
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moabbasi378&layout=compact&hide_border=true&theme=github_dark&title_color=fff&text_color=9CA3AF&bg_color=0d1117" alt="Top Languages" />
 </div>
@@ -62,6 +62,6 @@ const mohammad = {
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Moabbasi378&label=views&color=525252&style=flat-square" alt="Profile views" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Moabbasi378.Moabbasi378" alt="Profile views" />
 
 </div>
