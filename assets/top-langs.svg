@@ -3,18 +3,18 @@
   <text x="25" y="35" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Ubuntu,Sans-Serif" font-size="18" font-weight="600" fill="#7C8CFF">Most Used Languages</text>
   <text x="25" y="58" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Ubuntu,Sans-Serif" font-size="13" font-weight="600" fill="#C9D1D9">JavaScript</text>
   <rect x="150" y="49" width="250" height="8" rx="4" fill="#C9D1D9" opacity="0.12"/>
-  <rect x="150" y="49" width="137.5" height="8" rx="4" fill="#f1e05a"/>
-  <text x="470" y="58" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Ubuntu,Sans-Serif" font-size="12.5" fill="#C9D1D9">55.0%</text>
+  <rect x="150" y="49" width="142.9" height="8" rx="4" fill="#f1e05a"/>
+  <text x="470" y="58" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Ubuntu,Sans-Serif" font-size="12.5" fill="#C9D1D9">57.1%</text>
   <text x="25" y="83" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Ubuntu,Sans-Serif" font-size="13" font-weight="600" fill="#C9D1D9">TypeScript</text>
   <rect x="150" y="74" width="250" height="8" rx="4" fill="#C9D1D9" opacity="0.12"/>
-  <rect x="150" y="74" width="62.5" height="8" rx="4" fill="#3178c6"/>
-  <text x="470" y="83" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Ubuntu,Sans-Serif" font-size="12.5" fill="#C9D1D9">25.0%</text>
+  <rect x="150" y="74" width="59.5" height="8" rx="4" fill="#3178c6"/>
+  <text x="470" y="83" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Ubuntu,Sans-Serif" font-size="12.5" fill="#C9D1D9">23.8%</text>
   <text x="25" y="108" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Ubuntu,Sans-Serif" font-size="13" font-weight="600" fill="#C9D1D9">Python</text>
   <rect x="150" y="99" width="250" height="8" rx="4" fill="#C9D1D9" opacity="0.12"/>
-  <rect x="150" y="99" width="25.0" height="8" rx="4" fill="#3572a5"/>
-  <text x="470" y="108" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Ubuntu,Sans-Serif" font-size="12.5" fill="#C9D1D9">10.0%</text>
+  <rect x="150" y="99" width="23.8" height="8" rx="4" fill="#3572a5"/>
+  <text x="470" y="108" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Ubuntu,Sans-Serif" font-size="12.5" fill="#C9D1D9">9.5%</text>
   <text x="25" y="133" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Ubuntu,Sans-Serif" font-size="13" font-weight="600" fill="#C9D1D9">HTML</text>
   <rect x="150" y="124" width="250" height="8" rx="4" fill="#C9D1D9" opacity="0.12"/>
-  <rect x="150" y="124" width="25.0" height="8" rx="4" fill="#e34c26"/>
-  <text x="470" y="133" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Ubuntu,Sans-Serif" font-size="12.5" fill="#C9D1D9">10.0%</text>
+  <rect x="150" y="124" width="23.8" height="8" rx="4" fill="#e34c26"/>
+  <text x="470" y="133" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Ubuntu,Sans-Serif" font-size="12.5" fill="#C9D1D9">9.5%</text>
 </svg>
